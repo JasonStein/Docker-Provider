@@ -1,7 +1,5 @@
 # Docker Monitoring Agent for OMI Server
 
-Another test
-
 ## Code of Conduct
 
 This project has adopted the [Microsoft Open Source Code of Conduct]
