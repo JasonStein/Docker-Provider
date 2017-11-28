@@ -1,5 +1,4 @@
 # Docker Monitoring Agent for OMI Server
-testing git submodules
 
 ### Code of Conduct
 
